@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configvelete",
+        "uuid": 19534253,
+        "checksum": "6omlr5"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
